@@ -3,6 +3,7 @@ layout: page
 title: Contact Me
 menu: main
 permalink: /contact/
+
 ---
 
 [LinkedIn](https://linkedin.com/in/bernard-chong){:target="_blank"}
