@@ -9,7 +9,7 @@ permalink: /about/
 # Who am I?
 I'm Bernard, currently completing my Bachelor of Information Technology at the [Queensland University of Technology](https://www.qut.edu.au){:target="_blank"}. I have a keen interest in Information Security particularly in the areas of Cryptography and Network Security.
 
-Here's my [Curriculum Vitae](\pages\about\assets\Test.pdf)
+Here's my [Curriculum Vitae](\pages\about\assets\Test.pdf){:target="_blank"}
 
 # What am I working on?
 * Alongisde fellow students at QUT, I'm currently investigating the security of [NIST Lightweight Cryptogprahy Standardisation](https://csrc.nist.gov/projects/lightweight-cryptography){:target="_blank"} finalist TinyJAMBU. 
