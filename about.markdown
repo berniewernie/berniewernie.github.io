@@ -6,6 +6,6 @@ permalink: /about/
 ---
 
 # Who am i?
-I'm Bernard, currently completing my Bachelor of Information Technology at the [Queensland University of Technology](qut.edu.au)
+I'm Bernard, currently completing my Bachelor of Information Technology at the [Queensland University of Technology](https://www.qut.edu.au){:target="_blank"}
 
-Head on over to the co
+

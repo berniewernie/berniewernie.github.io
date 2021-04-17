@@ -5,9 +5,9 @@ menu: main
 permalink: /contact/
 ---
 
-[LinkedIn](linkedin.com/in/bernard-chong/)
+[LinkedIn](https://linkedin.com/in/bernard-chong){:target="_blank"}
 
-[GitHub](github.com/berniewernie)
+[GitHub](https://github.com/berniewernie){:target="_blank"}
 
 [Website](index.markdown)
 

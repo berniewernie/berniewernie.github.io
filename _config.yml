@@ -23,7 +23,7 @@ email: bernard.chong@connect.qut.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my personal site! 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://berniewernie.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "berniewernie.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: berniewernie
 github_username:  berniewernie
 
