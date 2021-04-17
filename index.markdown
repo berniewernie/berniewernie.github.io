@@ -15,4 +15,4 @@ Greetings stranger, I'm Bernard and this is my site.
 
 This is currently a work in progress so there's not much here, but feel free to look around!
 
-[Click Here](about) to find out about me
+## [Click Here](about) to find out about me
