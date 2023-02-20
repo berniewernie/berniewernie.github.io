@@ -1,10 +1,20 @@
 ---
 layout: page
 title: Photography
-exclude: true
+menu: main
 permalink: about/photography/
-image: 
 ---
+
+
+
+[LinkedIn](https://linkedin.com/in/bernard-chong){:target="_blank"}
+
+[GitHub](https://github.com/berniewernie){:target="_blank"}
+
+[Website](index.markdown)
+
+
+
 
 # Photos Photos Photos
 ![image1](\pages\photography\assets\photos\untitled-1.jpg)
