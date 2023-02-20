@@ -9,7 +9,7 @@ exclude: true
 ---
 
 # Welcome!
-Greetings stranger, I'm Bernard and this is my site.
+Hello there, I'm Bernard and this is my site.
 
 ![Obi-Wan "Hello There"](https://media1.giphy.com/media/Nx0rz3jtxtEre/giphy.gif?cid=ecf05e47ynjg8tc5x9g48948a1foxi6ikasewhyd4juvrzh7&rid=giphy.gif&ct=g)
 
