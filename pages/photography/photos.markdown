@@ -16,17 +16,17 @@ permalink: about/photography/
 
 ![image5](\pages\photography\photos\Dance5.jpg)
 
-![image6](\pages\photography\photos\Portrait1.jpg)
+![image6](pages\photography\photos\Portrait1.jpg)
 
-![image7](\pages\photography\photos\Potrait2.jpg)
+![image7](pages\photography\photos\Potrait2.jpg)
 
-![image8](\pages\photography\photos\untitled-1.jpg)
+![image8](pages\photography\photos\untitled-1.jpg)
 
-![image9](\pages\photography\photos\untitled-2.jpg)
+![image9](pages\photography\photos\untitled-2.jpg)
 
-![image10](\pages\photography\photos\untitled-3.jpg)
+![image10](pages\photography\photos\untitled-3.jpg)
 
-![image11](\pages\photography\photos\untitled-4.jpg)
+![image11](pages\photography\photos\untitled-4.jpg)
 
-![image12](\pages\photography\photos\untitled-5.jpg)
+![image12](pages\photography\photos\untitled-5.jpg)
 
