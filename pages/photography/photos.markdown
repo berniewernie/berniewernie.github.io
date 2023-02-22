@@ -6,7 +6,7 @@ permalink: about/photography/
 ---
 
 # Photos Photos Photos
-![image1](\pages\photography\photos\Portrait1.jpg)
+![image1](\pages\photography\photos\Dance1.jpg)
 
 ![image2](\pages\photography\photos\Dance2.jpg)
 
