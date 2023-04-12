@@ -1,0 +1,36 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+@import url(font-awesome.min.css);
+
+html, body, div, h1, h2, h3, h4, h5, h6, p, a {
+    color: black;
+    font: "Jose Fin"
+}
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+a:visited, a:link, a:active{ text-decoration: none; color:black; }
+a:hover, a:active { text-decoration: none; color:grey }
+
+div.menu{
+    background-color: white;
+    padding: 0;
+    float: right;
+    margin: 5px;
+    text-align: right;
+
+}
+
+
+li.icons{
+    display: inline;
+  } 
+div.main{
+    background-color: white;
+    padding: 0;
+    float: left;
+    margin: 5px;
+    text-align: left;
+
+}

@@ -1,4 +1,39 @@
 ---
-layout: home
-title: Home
+layout: default
 ---
+
+<!-- TODO: UNCOMMENT and Link css file -->
+<link rel="stylesheet" href="assets/css/main.css" />
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
+
+<!-- menu -->
+<div class="menu">
+    <!-- header -->
+    <header>
+        <h1><a href="/">{{site.header}}</a></h1>
+        <h2>{{site.subheader}}</h2>
+        <h3>{{site.bio}}</h3>
+        <!-- navigation -->
+        <h2>
+            <ul class="navigation">
+                <li>
+                    <a href="construction.html">about</a>
+                </li>
+                <li>
+                    <a href="construction.html">portfolio</a>
+                </li>
+            </ul>
+            <!-- social icons -->
+            <ul class="icons">
+                <li class="icons"><a href="https://instagram.com/{{ site.social.instagram }}" class="fa-brands fa-instagram"></a></li>
+                <li class="icons"><a href="https:github.com/{{site.social.github_username}}" class="fa-brands fa-square-github"></a></li>
+                <li class="icons"><a href="mailto:{{ site.social.email }}" class="fa-regular fa-envelope"></a></li>
+            </ul>
+        </h2>
+    </header>
+</div>
+
+<div class="main">
+    <h1>UNDER CONSTRUCTION</h1>
+</div>
